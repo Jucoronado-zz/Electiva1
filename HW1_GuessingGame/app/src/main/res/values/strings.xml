@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW1_GuessingGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Button</string>
+    <string name="number_guess_game">Number Guess Game!</string>
+    <string name="the_number_i_m_thinking_of_from_1_1000">the number i´m thinking of, from 1- 1000</string>
+    <string name="numero_de_intentos">NUMERO DE INTENTOS</string>
+    <string name="textview">TextView</string>
+    <string name="reset">RESET</string>
+</resources>
